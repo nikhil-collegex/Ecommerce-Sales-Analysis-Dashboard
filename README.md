@@ -88,4 +88,4 @@ Adjust the folder names to match your repository.
 ## Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/nikhil-collegex)
+[LinkedIn](www.linkedin.com/in/collegex) | [GitHub](https://github.com/nikhil-collegex)
