@@ -88,4 +88,4 @@ Adjust the folder names to match your repository.
 ## Author
 
 **NIKHIL SHARMA**
-[LinkedIn](www.linkedin.com/in/collegex) | [GitHub](https://github.com/nikhil-collegex)
+[LinkedIn](https://www.linkedin.com/in/collegex) | [GitHub](https://github.com/nikhil-collegex)
